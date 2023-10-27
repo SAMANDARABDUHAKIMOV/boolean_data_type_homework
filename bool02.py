@@ -10,3 +10,4 @@ def main(a):
 
     return a==7
 print(main(3))
+print(main(7))
