@@ -9,8 +9,8 @@ def main(a):
     """
     # Write your code here
     
-    x= math.sqrt(a)
-    return x
+    
+    return math.sqrt(a)%1==0
 
 print(main(9))
 print(main(15))
